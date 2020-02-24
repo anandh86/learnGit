@@ -5,7 +5,10 @@ int mult(int a, int b)
 
 int divide(int a, int b)
 {
-	return a/b;
+	if(b !=0)
+		return a/b;
+	else
+		return 0; //cannot divide by zero
 }
 
 int add(int a, int b)

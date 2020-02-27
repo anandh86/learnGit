@@ -24,5 +24,8 @@ int sub(int a, int b)
 //added new feature
 int specialFunc()
 {
+	//bug fix
+	if(k == 1)
+		return 1;
 	return 0;
 }

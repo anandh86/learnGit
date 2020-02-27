@@ -20,3 +20,9 @@ int sub(int a, int b)
 {
 	return a-b;
 }
+
+//added new feature
+int specialFunc()
+{
+	return 0;
+}

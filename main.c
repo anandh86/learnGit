@@ -1,6 +1,6 @@
-int mult(int a, int b)
+long int mult(int a, int b)
 {
-	return a*b;
+	return (a*b);
 }
 
 int divide(int a, int b)
@@ -9,4 +9,14 @@ int divide(int a, int b)
 		return a/b;
 	else
 		return 0; //cannot divide by zero
+}
+
+int add(int a, int b)
+{
+	return a+b;
+}
+
+int sub(int a, int b)
+{
+	return a-b;
 }

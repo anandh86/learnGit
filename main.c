@@ -32,3 +32,11 @@ int specialFunc()
 		return 1;
 	return 0;
 }
+
+//another feature
+int feature5()
+{
+	if(k == 1)
+		return 1;
+	return 0;
+}

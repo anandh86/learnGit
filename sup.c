@@ -13,7 +13,21 @@ void new_func_1()
 	//something new
 }
 
+int feature_func1()
+{
+	switch(k)
+	{
+		case 1:
+		//do nothing;
+		break;
+		default:
+		//do nothing;
+		break;
+	}
+}
+
 void new_func_2()
 {
 	//something new
 }
+

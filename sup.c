@@ -12,3 +12,8 @@ void new_func_1()
 {
 	//something new
 }
+
+void new_func_2()
+{
+	//something new
+}

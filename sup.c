@@ -71,3 +71,13 @@ void main_func2()
 	else
 		k = 1;	
 }
+
+void new_func_2()
+{
+	//correct implementation
+	new_func_2();
+	if(k==0)
+		return;
+	else
+		k = 1;	
+}

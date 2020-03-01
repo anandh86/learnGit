@@ -40,3 +40,9 @@ int feature5()
 		return 1;
 	return 0;
 }
+
+//parallel development
+int feature6()
+{
+	return 0;
+}

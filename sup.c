@@ -1,6 +1,6 @@
 void func()
 {
-	don't call any function
+	call some function
 }
 
 void func1()
@@ -11,6 +11,24 @@ void func1()
 void new_func_1()
 {
 	//something new
+}
+
+int feature_func2()
+{
+	if(k is null)
+		return 0;
+	switch(k)
+	{
+		case 1:
+		//do nothing;
+		break;
+		case 2:
+		//do something;
+		break;
+		default:
+		//do nothing;
+		break;
+	}
 }
 
 int feature_func1()

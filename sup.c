@@ -20,6 +20,9 @@ int feature_func1()
 		case 1:
 		//do nothing;
 		break;
+		case 2:
+		//do something;
+		break;
 		default:
 		//do nothing;
 		break;

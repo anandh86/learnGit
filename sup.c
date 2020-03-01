@@ -1,6 +1,6 @@
 void func()
 {
-	int k;
+	don't call any function
 }
 
 void func1()

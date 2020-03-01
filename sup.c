@@ -15,6 +15,8 @@ void new_func_1()
 
 int feature_func1()
 {
+	if(k is null)
+		return 0;
 	switch(k)
 	{
 		case 1:

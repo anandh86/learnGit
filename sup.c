@@ -1,6 +1,6 @@
 void func()
 {
-	
+	call some function
 }
 
 void func1()

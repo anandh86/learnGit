@@ -89,3 +89,8 @@ void new_func_2()
 	else
 		k = 1;	
 }
+
+void new_func_3()
+{
+	//finished implementation
+}

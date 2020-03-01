@@ -62,3 +62,12 @@ void main_func1()
 	else
 		k = 1;	
 }
+
+void main_func2()
+{
+	new_func_2();
+	if(k==0)
+		return;
+	else
+		k = 1;	
+}

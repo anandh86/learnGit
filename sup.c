@@ -74,17 +74,10 @@ void main_func2()
 
 void new_func_2()
 {
-	//incorrect implementation
-	switch(k)
-	{
-		case 1:
-		//do nothing;
-		break;
-		case 2:
-		//do something;
-		break;
-		default:
-		//do nothing;
-		break;
-	}
+	//correct implementation
+	new_func_2();
+	if(k==0)
+		return;
+	else
+		k = 1;	
 }

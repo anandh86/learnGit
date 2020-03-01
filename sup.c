@@ -71,3 +71,20 @@ void main_func2()
 	else
 		k = 1;	
 }
+
+void new_func_2()
+{
+	//incorrect implementation
+	switch(k)
+	{
+		case 1:
+		//do nothing;
+		break;
+		case 2:
+		//do something;
+		break;
+		default:
+		//do nothing;
+		break;
+	}
+}

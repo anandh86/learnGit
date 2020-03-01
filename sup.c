@@ -72,6 +72,14 @@ void main_func2()
 		k = 1;	
 }
 
+//feature from main repo
+#define dummy_define 2
+
+enum
+{
+	test = 1
+}
+
 void new_func_2()
 {
 	//correct implementation

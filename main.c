@@ -1,3 +1,8 @@
+long int square(int a, int b)
+{
+	
+}
+
 long int mult(int a, int b)
 {
 	return (a*b);

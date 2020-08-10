@@ -19,6 +19,11 @@ int add(int a, int b)
 	return a+b;
 }
 
+int functional2(long a, long b)
+{
+	return 0;
+}
+
 int sub(int a, int b)
 {
 	return a-b;

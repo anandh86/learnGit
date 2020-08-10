@@ -1,3 +1,7 @@
+long func1(int a, int b)
+{
+	
+}
 long int square(int a, int b)
 {
 	

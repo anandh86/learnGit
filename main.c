@@ -1,3 +1,7 @@
+int functional1(long a, long b)
+{
+	return 0;
+}
 long int mult(int a, int b)
 {
 	return (a*b);

@@ -1,4 +1,5 @@
 //Test 1
+//Test 2
 int functional1(long a, long b)
 {
 	return 0;
